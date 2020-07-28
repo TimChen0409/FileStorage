@@ -224,7 +224,7 @@
         "price": "搭配迷你裝飲料 優惠價$109元(原價154元)"
       }
     ],
-    "Non-staple": [
+    "nonStaple": [
       {
         "pdName": "哈拉拼盤",
         "pdEnName": "",
@@ -308,7 +308,7 @@
         "price": "$200元(350g±20g)"
       }
     ],
-    "SoupsBeverages": [
+    "soupsBeverages": [
       {
         "pdName": "玉米濃湯",
         "pdEnName": "corn soup",
