@@ -121,7 +121,7 @@
       "price": "大披薩 $329 / 小披薩 $229"
     }
   ],
-  "miniPizza": [
+  "mini_puzzle": [
     {
       "pdName": "MINI 總匯披薩",
       "pdEnName": "MINI Supreme",
@@ -171,7 +171,7 @@
       "price": "$79元"
     }
   ],
-  "friedChicken": [
+  "fried_chicken": [
     {
       "pdName": "咔滋雞腿桶(辣)",
       "pdEnName": "Fried Chicken Leg",
@@ -197,142 +197,140 @@
       "price": "6塊外帶$269、外送$294 / 9塊外帶$389、外送$441"
     }
   ],
-  "selectedFood": {
-    "baked": [
-      {
-        "pdName": "總匯紅醬燉飯+迷你裝飲料",
-        "pdEnName": "",
-        "pdImage": "sp-01.png",
-        "stuffing": "洋蔥飯、洋蔥、香腸、豬肉、火腿、蘑菇、青椒、香草粉",
-        "description": "以蕃茄紅醬為底，拌入洋蔥爆香過的米飯，搭配豬肉、火腿及青椒燉煮後鋪上香濃起司，義式好料 飄香上桌!",
-        "price": "搭配迷你裝飲料 優惠價$109元(原價154元)"
-      },
-      {
-        "pdName": "奶油海鮮燉飯+迷你裝飲料",
-        "pdEnName": "",
-        "pdImage": "sp-02.png",
-        "stuffing": "洋蔥白飯、燉飯白醬、蝦仁、花枝、章魚丁、蘑菇、青豆、香草粉",
-        "description": "以香濃白醬為底，拌入洋蔥爆香過的米飯，搭配蝦仁、花枝及章魚丁燉煮後鋪上金黃起司，義式好料 經典上桌!",
-        "price": "搭配迷你裝飲料 優惠價$109元(原價154元)"
-      },
-      {
-        "pdName": "經典紅醬燻雞焗麵+迷你瓶裝飲料",
-        "pdEnName": "",
-        "pdImage": "sp-03.png",
-        "stuffing": "義大利麵、肉醬、洋蔥、燻雞、蘑菇、青豆、義式香草料",
-        "description": "使用鮮紅欲滴的新鮮番茄調製出美味肉醬，混合煙燻雞肉、洋蔥、蘑菇等配料，交織出經典義式好滋味！",
-        "price": "搭配迷你裝飲料 優惠價$109元(原價154元)"
-      }
-    ],
-    "nonStaple": [
-      {
-        "pdName": "哈拉拼盤",
-        "pdEnName": "",
-        "pdImage": "哈拉拼盤.png",
-        "stuffing": "",
-        "description": "8支香草烤雞翅+8塊香酥雞塊+2份現炸脆薯",
-        "price": "$249(原價367元)"
-      },
-      {
-        "pdName": "香酥雞塊",
-        "pdEnName": "Fried Chicken Leg",
-        "pdImage": "sp-04.png",
-        "stuffing": "",
-        "description": "",
-        "price": "外帶特價$69/8入 外送原價$88元/8入"
-      },
-      {
-        "pdName": "德式帶骨香腸",
-        "pdEnName": "Pork Sausage With Rib",
-        "pdImage": "sp-05.png",
-        "stuffing": "",
-        "description": "精選上等豬絞肉製成帶骨香腸，慢火烘烤出微焦外皮，肉質香Q彈牙!",
-        "price": "2支 $79"
-      },
-      {
-        "pdName": "香辣烤雞翅(辣味)",
-        "pdEnName": "Spicy Chicken Wings",
-        "pdImage": "sp-07.png",
-        "stuffing": "",
-        "description": "",
-        "price": "3支 $99"
-      },
-      {
-        "pdName": "香草烤雞翅(不辣)",
-        "pdEnName": "Herb Chicken Wings",
-        "pdImage": "sp-08.png",
-        "stuffing": "",
-        "description": "獨特義式香料烘烤，吮指回味！",
-        "price": "4入 $89"
-      },
-      {
-        "pdName": "黃金咖哩雞腿條(微辣)",
-        "pdEnName": "Chicken Strips(Spicy)",
-        "pdImage": "sp-09.png",
-        "stuffing": "",
-        "description": "嚴選雞腿肉以咖哩調和入味，香氣濃郁。",
-        "price": "$99"
-      },
-      {
-        "pdName": "現炸脆薯",
-        "pdEnName": "French Fries",
-        "pdImage": "sp-10.png",
-        "stuffing": "",
-        "description": "",
-        "price": "$49"
-      },
-      {
-        "pdName": "雙份起司",
-        "pdEnName": "Double cheese (on pizza)",
-        "pdImage": "sp-12.png",
-        "stuffing": "",
-        "description": "",
-        "price": "L$60　M$50"
-      }
-    ],
-    "dessert": [
-      {
-        "pdName": "起酥紅豆派",
-        "pdEnName": "Red Bean Pie",
-        "pdImage": "sp-13.png",
-        "stuffing": "$49（2個一份）",
-        "description": "精選紅豆泥，包裹層層酥脆派皮， 邀您一同品嚐甜蜜心動的小小幸福！",
-        "price": "$49（2個一份）"
-      },
-      {
-        "pdName": "拿坡里重乳酪蛋糕",
-        "pdEnName": "Cheese Cake",
-        "pdImage": "sp-14.png",
-        "stuffing": "奶油乳酪、砂糖、鮮奶油(奶素)、檸檬汁、雞蛋",
-        "description": "特選食材，卡夫乳酪，純手工烘焙，綿密口感。",
-        "price": "$200元(350g±20g)"
-      }
-    ],
-    "soupsBeverages": [
-      {
-        "pdName": "玉米濃湯",
-        "pdEnName": "corn soup",
-        "pdImage": "sp-15.png",
-        "stuffing": "",
-        "description": "",
-        "price": "一杯$30元 四杯$100元"
-      },
-      {
-        "pdName": "1250ml瓶裝飲料",
-        "pdEnName": "1250ml Drink( Coca Cola/ Sprite/ FUZEtea(Lemon))",
-        "pdImage": "sp-16.png",
-        "stuffing": "",
-        "description": "可口可樂/雪碧/飛想茶(檸檬紅茶)",
-        "price": "$40 元 / 1250ml"
-      },
-      {
-        "pdName": "350ml迷你瓶裝飲料",
-        "pdEnName": "350ml soft drink",
-        "pdImage": "sp-17.png",
-        "stuffing": "",
-        "description": "",
-        "price": "$25 元/350ml"
-      }
-    ]
-  }
+  "baked": [
+    {
+      "pdName": "總匯紅醬燉飯+迷你裝飲料",
+      "pdEnName": "",
+      "pdImage": "sp-01.png",
+      "stuffing": "洋蔥飯、洋蔥、香腸、豬肉、火腿、蘑菇、青椒、香草粉",
+      "description": "以蕃茄紅醬為底，拌入洋蔥爆香過的米飯，搭配豬肉、火腿及青椒燉煮後鋪上香濃起司，義式好料 飄香上桌!",
+      "price": "搭配迷你裝飲料 優惠價$109元(原價154元)"
+    },
+    {
+      "pdName": "奶油海鮮燉飯+迷你裝飲料",
+      "pdEnName": "",
+      "pdImage": "sp-02.png",
+      "stuffing": "洋蔥白飯、燉飯白醬、蝦仁、花枝、章魚丁、蘑菇、青豆、香草粉",
+      "description": "以香濃白醬為底，拌入洋蔥爆香過的米飯，搭配蝦仁、花枝及章魚丁燉煮後鋪上金黃起司，義式好料 經典上桌!",
+      "price": "搭配迷你裝飲料 優惠價$109元(原價154元)"
+    },
+    {
+      "pdName": "經典紅醬燻雞焗麵+迷你瓶裝飲料",
+      "pdEnName": "",
+      "pdImage": "sp-03.png",
+      "stuffing": "義大利麵、肉醬、洋蔥、燻雞、蘑菇、青豆、義式香草料",
+      "description": "使用鮮紅欲滴的新鮮番茄調製出美味肉醬，混合煙燻雞肉、洋蔥、蘑菇等配料，交織出經典義式好滋味！",
+      "price": "搭配迷你裝飲料 優惠價$109元(原價154元)"
+    }
+  ],
+  "Non-staple": [
+    {
+      "pdName": "哈拉拼盤",
+      "pdEnName": "",
+      "pdImage": "哈拉拼盤.png",
+      "stuffing": "",
+      "description": "8支香草烤雞翅+8塊香酥雞塊+2份現炸脆薯",
+      "price": "$249(原價367元)"
+    },
+    {
+      "pdName": "香酥雞塊",
+      "pdEnName": "Fried Chicken Leg",
+      "pdImage": "sp-04.png",
+      "stuffing": "",
+      "description": "",
+      "price": "外帶特價$69/8入 外送原價$88元/8入"
+    },
+    {
+      "pdName": "德式帶骨香腸",
+      "pdEnName": "Pork Sausage With Rib",
+      "pdImage": "sp-05.png",
+      "stuffing": "",
+      "description": "精選上等豬絞肉製成帶骨香腸，慢火烘烤出微焦外皮，肉質香Q彈牙!",
+      "price": "2支 $79"
+    },
+    {
+      "pdName": "香辣烤雞翅(辣味)",
+      "pdEnName": "Spicy Chicken Wings",
+      "pdImage": "sp-07.png",
+      "stuffing": "",
+      "description": "",
+      "price": "3支 $99"
+    },
+    {
+      "pdName": "香草烤雞翅(不辣)",
+      "pdEnName": "Herb Chicken Wings",
+      "pdImage": "sp-08.png",
+      "stuffing": "",
+      "description": "獨特義式香料烘烤，吮指回味！",
+      "price": "4入 $89"
+    },
+    {
+      "pdName": "黃金咖哩雞腿條(微辣)",
+      "pdEnName": "Chicken Strips(Spicy)",
+      "pdImage": "sp-09.png",
+      "stuffing": "",
+      "description": "嚴選雞腿肉以咖哩調和入味，香氣濃郁。",
+      "price": "$99"
+    },
+    {
+      "pdName": "現炸脆薯",
+      "pdEnName": "French Fries",
+      "pdImage": "sp-10.png",
+      "stuffing": "",
+      "description": "",
+      "price": "$49"
+    },
+    {
+      "pdName": "雙份起司",
+      "pdEnName": "Double cheese (on pizza)",
+      "pdImage": "sp-12.png",
+      "stuffing": "",
+      "description": "",
+      "price": "L$60　M$50"
+    }
+  ],
+  "dessert": [
+    {
+      "pdName": "起酥紅豆派",
+      "pdEnName": "Red Bean Pie",
+      "pdImage": "sp-13.png",
+      "stuffing": "$49（2個一份）",
+      "description": "精選紅豆泥，包裹層層酥脆派皮， 邀您一同品嚐甜蜜心動的小小幸福！",
+      "price": "$49（2個一份）"
+    },
+    {
+      "pdName": "拿坡里重乳酪蛋糕",
+      "pdEnName": "Cheese Cake",
+      "pdImage": "sp-14.png",
+      "stuffing": "奶油乳酪、砂糖、鮮奶油(奶素)、檸檬汁、雞蛋",
+      "description": "特選食材，卡夫乳酪，純手工烘焙，綿密口感。",
+      "price": "$200元(350g±20g)"
+    }
+  ],
+  "SoupsBeverages": [
+    {
+      "pdName": "玉米濃湯",
+      "pdEnName": "corn soup",
+      "pdImage": "sp-15.png",
+      "stuffing": "",
+      "description": "",
+      "price": "一杯$30元 四杯$100元"
+    },
+    {
+      "pdName": "1250ml瓶裝飲料",
+      "pdEnName": "1250ml Drink( Coca Cola/ Sprite/ FUZEtea(Lemon))",
+      "pdImage": "sp-16.png",
+      "stuffing": "",
+      "description": "可口可樂/雪碧/飛想茶(檸檬紅茶)",
+      "price": "$40 元 / 1250ml"
+    },
+    {
+      "pdName": "350ml迷你瓶裝飲料",
+      "pdEnName": "350ml soft drink",
+      "pdImage": "sp-17.png",
+      "stuffing": "",
+      "description": "",
+      "price": "$25 元/350ml"
+    }
+  ]
 }
