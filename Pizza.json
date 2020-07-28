@@ -121,7 +121,7 @@
       "price": "大披薩 $329 / 小披薩 $229"
     }
   ],
-  "mini_puzzle": [
+  "miniPizza": [
     {
       "pdName": "MINI 總匯披薩",
       "pdEnName": "MINI Supreme",
@@ -171,7 +171,7 @@
       "price": "$79元"
     }
   ],
-  "fried_chicken": [
+  "friedChicken": [
     {
       "pdName": "咔滋雞腿桶(辣)",
       "pdEnName": "Fried Chicken Leg",
@@ -197,7 +197,7 @@
       "price": "6塊外帶$269、外送$294 / 9塊外帶$389、外送$441"
     }
   ],
-  "selected_food": {
+  "selectedFood": {
     "baked": [
       {
         "pdName": "總匯紅醬燉飯+迷你裝飲料",
